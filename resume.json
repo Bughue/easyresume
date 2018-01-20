@@ -4,7 +4,7 @@
     "tel": "180330xxxxxx",
     "email": "justabug@foxmail.com",
     "blog":"<a href='http://www.justabug.net'>justabug</a>",
-    "avatar":"image/justabug1.jpg",
+    "avatar":"image/justabug.jpg",
     "pages":[
         {"zhihu":"https://www.zhihu.com/people/justabug/"},
         {"douban":"http://www.douban.com/people/justabug/"}
@@ -35,7 +35,8 @@
             "post":"软件工程师",
             "startDate":"2014.04",
             "endDate":"2014.08",
-            "summary":"负责中国游戏中心平台的维护"
+            "summary":"负责中国游戏中心平台的维护",
+            "details":["负责系统维护，基于spring-mvc开发新业务"]
         }
         
     ],
