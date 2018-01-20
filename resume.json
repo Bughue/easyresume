@@ -4,7 +4,7 @@
     "tel": "180330xxxxxx",
     "email": "justabug@foxmail.com",
     "blog":"<a href='http://www.justabug.net'>justabug</a>",
-    "avatar":"image/justabug.jpg",
+    "avatar":"image/justabug1.jpg",
     "pages":[
         {"zhihu":"https://www.zhihu.com/people/justabug/"},
         {"douban":"http://www.douban.com/people/justabug/"}
@@ -115,7 +115,7 @@
             "fragments":[
                 {
                     "name":"商务合作对接负责人",
-                    "comment":"和所有友商企业对合作对接 进行评估、约定、设计、实现",
+                    "comment":"对友商合作的对接进行评估、约定、设计、实现",
                     "startDate":"2015.10",
                     "endDate":"至今",
                     "summary":"目前与我们公司进行商务合作的商户超过50家，其中涉及系统深度对接合作的约20家，合作方式包括但不限于单点登录，数据推送，积分商城合作，",
