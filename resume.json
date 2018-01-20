@@ -1,14 +1,28 @@
 {
     "name": "谢明华",
-    "birth": "1991.09.21",
+    "birth": "1991",
     "tel": "180330xxxxxx",
     "email": "justabug@foxmail.com",
     "blog":"<a href='http://www.justabug.net'>justabug</a>",
-    "avatar":"image/jsutabug.jpg",
+    "avatar":"image/justabug.jpg",
     "pages":[
         {"zhihu":"https://www.zhihu.com/people/justabug/"},
         {"douban":"http://www.douban.com/people/justabug/"}
     ],
+
+    "educations":[{
+        "university":"华南农业大学",
+        "studyType":"本科",
+        "major":"软件工程",
+        "startDate":"2010.07",
+        "endDate":"2014.07",
+        "experiences":[
+            "数信学院组织部部长",
+            "社团类荣誉：2011年度华南农业大学“优秀团干部”"
+        ]
+    }
+    ]
+    ,
     "summaries":[
         "熟悉Java、SQL；使用过C、C#、Python、Android、Javascript等其他编程语言。",
         "熟悉且热爱面向对象设计原则；熟悉 Java 多线程、集合、加解密、网络交互。",
@@ -45,7 +59,7 @@
     "projectExperiences":[
        
         {
-            "projectName":"2.0投资平台platform-plus",
+            "projectName":"2.0投资平台（platform-plus）",
             "role":"项目经理/主要开发成员",
             "startDate":"2017.09",
             "endDate":"至今",
@@ -116,7 +130,7 @@
             "fragments":[
                 {
                     "name":"商务合作对接负责人",
-                    "comment":"对友商合作的对接进行评估、约定、设计、实现",
+                    "comment":"（对合作对接进行评估、约定、设计、实现）",
                     "startDate":"2015.10",
                     "endDate":"至今",
                     "summary":"目前与我们公司进行商务合作的商户超过50家，其中涉及系统深度对接合作的约20家，合作方式包括但不限于单点登录，数据推送，积分商城合作，",
@@ -126,7 +140,7 @@
                 },
                 {
                     "name":"应届生招聘与培养负责人",
-                    "comment":"应届生招聘负责人之一，应届生培养主导者",
+                    "comment":"（应届生招聘负责人之一，应届生培养主导者）",
                     "startDate":"2017.01",
                     "endDate":"至今",
                     "summary":"与领导讨论公司需要什么样的人才，进行招聘和对已进入公司的新人进行培养",
@@ -140,19 +154,6 @@
         }
 
         
-    ],
-
-    "educations":[{
-        "university":"华南农业大学",
-        "studyType":"本科",
-        "major":"软件工程",
-        "startDate":"2010.07",
-        "endDate":"2014.07",
-        "experiences":[
-            "数信学院组织部部长",
-            "社团类荣誉：2011年度华南农业大学“优秀团干部”"
-        ]
-    }
     ]
 
 }
